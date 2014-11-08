@@ -4,10 +4,8 @@ layout: page
 comments: yes
 ---
   
-卢克进, 08年毕业于南京理工大学计算机学院.      
-熟练使用常见的计算机语言.      
-目前从事Mac,iOS开发相关工作.      
+柯杰伟，09年毕业于北京航空航天大学软件学院。
 
-个人邮箱:kejinlu@gmail.com      
-新浪微博: [http://weibo.com/kejinlu](http://weibo.com/kejinlu)      
-github : [https://github.com/kejinlu](https://github.com/kejinlu)      
+
+个人邮箱:kejiewei404@gmail.com      
+github : [https://github.com/kejiewei](https://github.com/kejiewei)      
